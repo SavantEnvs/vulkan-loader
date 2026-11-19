@@ -1,0 +1,4 @@
+# Build outputs of mayhem/build.sh; never part of the build context.
+mayhem-build/
+external/
+build/
